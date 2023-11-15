@@ -44,9 +44,9 @@ width: 100px;}
 }
 
 .banner-main-title h1{
-   padding-top: 150px;
+   padding-top: 220px;
     padding-bottom: 150px;
-    color: white;
+    color: #ffffff;
     font-family: 'Poppins', sans-serif;
     font-weight: 800;
     font-size: 59px;
@@ -331,7 +331,7 @@ border-bottom: 1px solid #d0d0d0;}
     list-style-position: inside;
     list-style-type: none;
     font-family: 'Poppins';
-    font-size: 19px;
+    font-size: 17px;
 }
 .package-one{
    background-color: #f3e9dd;
